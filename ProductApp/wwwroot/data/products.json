@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "Name": "Product 1",
+    "Description": "A good products",
+    "Price": 200,
+    "Instock": false
+  },
+  {
+    "Id": 2,
+    "Name": "Product 2",
+    "Description": "Another good products",
+    "Price": 250,
+    "Instock": true
+  },
+  {
+    "Id": 3,
+    "Name": "Product 3",
+    "Description": "A delicious products",
+    "Price": 200,
+    "Instock": true
+  }
+]
